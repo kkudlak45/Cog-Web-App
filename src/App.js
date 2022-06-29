@@ -10,7 +10,7 @@ import { Route, Routes } from "react-router-dom";
 
 //We will be using Router which essentially is the standard libary of routes
 // for routing in react. This means it enables navigation among components and
-// and can allows the us (users) to change the browser url
+// and can allows the us (users) to change the browser url.
 
 function App() {
   return (
